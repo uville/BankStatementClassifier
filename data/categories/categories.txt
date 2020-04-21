@@ -1,0 +1,12 @@
+0, palkka
+1, muu tulo
+2, säästötililtä
+3, ruokakauppa
+4, ravintola
+5, liikkuminen
+6, harrastukset
+7, asuminen
+8, viihde
+9, muu meno
+10, sijoittaminen
+11, säästötilille
